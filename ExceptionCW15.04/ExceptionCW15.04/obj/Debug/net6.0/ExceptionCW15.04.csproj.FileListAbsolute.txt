@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\ExceptionCW15.04\ExceptionCW15.04\bin\Debug\net6.0\ExceptionCW15.04.exe
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\ExceptionCW15.04\ExceptionCW15.04\bin\Debug\net6.0\ExceptionCW15.04.deps.json
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\ExceptionCW15.04\ExceptionCW15.04\bin\Debug\net6.0\ExceptionCW15.04.runtimeconfig.json
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\ExceptionCW15.04\ExceptionCW15.04\bin\Debug\net6.0\ExceptionCW15.04.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\ExceptionCW15.04\ExceptionCW15.04\bin\Debug\net6.0\ExceptionCW15.04.pdb
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\ExceptionCW15.04\ExceptionCW15.04\obj\Debug\net6.0\ExceptionCW15.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\ExceptionCW15.04\ExceptionCW15.04\obj\Debug\net6.0\ExceptionCW15.04.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\ExceptionCW15.04\ExceptionCW15.04\obj\Debug\net6.0\ExceptionCW15.04.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\ExceptionCW15.04\ExceptionCW15.04\obj\Debug\net6.0\ExceptionCW15.04.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\ExceptionCW15.04\ExceptionCW15.04\obj\Debug\net6.0\ExceptionCW15.04.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\ExceptionCW15.04\ExceptionCW15.04\obj\Debug\net6.0\refint\ExceptionCW15.04.dll
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\ExceptionCW15.04\ExceptionCW15.04\obj\Debug\net6.0\ExceptionCW15.04.pdb
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\ExceptionCW15.04\ExceptionCW15.04\obj\Debug\net6.0\ExceptionCW15.04.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\İş masası\CodeAcademy Tasks\ExceptionCW15.04\ExceptionCW15.04\obj\Debug\net6.0\ref\ExceptionCW15.04.dll
